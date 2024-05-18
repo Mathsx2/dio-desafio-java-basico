@@ -1,2 +1,6 @@
-# dio-desafio-java-basico
-Desafios do Curso de Java Básico
+# Repositório de Desafio - DIO ![Java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
+
+
+Vou adicionar todos os desafios do curso nesse repositório para ter maior organização.
+
+
